@@ -1,0 +1,1 @@
+msgbox0=msgbox("if your PC is 64-bit click YES and if your PC is 32-bit click NO",4,"CustomWin")
